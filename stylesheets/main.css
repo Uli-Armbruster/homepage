@@ -1,0 +1,47 @@
+/* line 1, ../assets/css/partials/_grid.sass */
+body {
+  background-color: #FF0040;
+}
+
+/* line 11, ../assets/css/partials/_grid.sass */
+h1 {
+  font-size: 50px;
+}
+
+/* line 11, ../assets/css/partials/_grid.sass */
+h2 {
+  font-size: 45px;
+}
+
+/* line 11, ../assets/css/partials/_grid.sass */
+h3 {
+  font-size: 40px;
+}
+
+/* line 11, ../assets/css/partials/_grid.sass */
+h4 {
+  font-size: 35px;
+}
+
+/* line 11, ../assets/css/partials/_grid.sass */
+h5 {
+  font-size: 30px;
+}
+
+/* line 11, ../assets/css/partials/_grid.sass */
+h6 {
+  font-size: 25px;
+}
+
+/* line 14, ../assets/css/partials/_grid.sass */
+#content {
+  background-color: #81BEF7;
+  width: 200px;
+  height: 300px;
+}/* line 14, ../assets/css/partials/_grid.sass */
+
+#header {
+  background-color: #01DFD7;
+  width: 400px;
+  height: 200px;
+}

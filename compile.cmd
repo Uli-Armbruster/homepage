@@ -1,0 +1,1 @@
+bundle exec haml index.haml index.html
